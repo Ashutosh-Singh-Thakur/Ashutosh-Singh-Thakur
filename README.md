@@ -2,7 +2,7 @@
 <h2 align="center">from India 🇮🇳</h2>
 
 - 🌱 I’m currently learning Data Science and Analytics  <br>
-- 💬 Ask me about Python, ML/DL, Java, R, C++ ...  <br>
+- 💬 Ask me about Python, ML/DL, Java, C++ ...  <br>
 - 📫 How to reach me ashutoshsingh999th@gmail.com
 
 <!---

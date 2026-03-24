@@ -39,7 +39,7 @@ Pandas · NumPy · Scikit-Learn
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/ashutosh-singh-thakur) · [LeetCode](https://leetcode.com/u/AshutoshSinghThakur/)
+[LinkedIn](https://www.linkedin.com/in/ashutosh-singh-thakur) · [LeetCode](https://leetcode.com/u/ashutosh-singh-thakur/)
 
 ---
 

@@ -31,7 +31,7 @@ Pandas · NumPy · Scikit-Learn
 
 ## A Bit More
 
-- Solved **700+ problems on LeetCode** — algorithmic thinking is a habit, not just a skill
+- Solved **900+ problems on LeetCode** — algorithmic thinking is a habit, not just a skill
 - I value code that my teammates can read, reason about, and extend with confidence
 - Open to conversations about backend engineering, architecture tradeoffs, and collaborative problem-solving
 
@@ -39,7 +39,7 @@ Pandas · NumPy · Scikit-Learn
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/ashutosh-singh-thakur) · [GitHub](https://github.com/Ashutosh-Singh-Thakur)
+[LinkedIn](https://www.linkedin.com/in/ashutosh-singh-thakur) · [LeetCode](https://leetcode.com/u/AshutoshSinghThakur/)
 
 ---
 
